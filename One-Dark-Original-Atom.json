@@ -218,6 +218,36 @@
             "color": "#e06c75ff",
             "font_style": null,
             "font_weight": null
+          },
+          "emphasis": {
+            "color": "#c678ddff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "link_text": {
+            "color": "#61afefff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "link_uri": {
+            "color": "#61afefff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.list_marker": {
+            "color": "#e06c75ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "text.literal": {
+            "color": "#98c379ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "title": {
+            "color": "#e06c75ff",
+            "font_style": null,
+            "font_weight": null
           }
         }
       }
