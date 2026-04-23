@@ -238,6 +238,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "punctuation.special": {
+            "color": "#d19a66ff",
+            "font_style": null,
+            "font_weight": null
+          },
           "text.literal": {
             "color": "#98c379ff",
             "font_style": null,
