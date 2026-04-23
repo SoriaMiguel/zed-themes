@@ -1,5 +1,4 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "One Dark Original Atom",
   "author": "Miguel Soria",
   "themes": [
@@ -200,7 +199,7 @@
             "font_weight": null
           },
           "string.special": {
-            "color": "#d19a66ff",
+            "color": "#98c379ff",
             "font_style": null,
             "font_weight": null
           },
@@ -270,7 +269,7 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#e5c07bff",
+            "color": "#e06c75ff",
             "font_style": null,
             "font_weight": null
           },
